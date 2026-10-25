@@ -5,3 +5,6 @@ Project 04 version1 completed
 2nd Team Member:<이호영>
 2nd Team Member:<20231077>
 Project 04 version2 completed
+3rd Team Member:<이정우>
+3rd Team Member: <20231044>
+Project 04 version3 completed
